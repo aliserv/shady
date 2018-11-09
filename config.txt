@@ -1,6 +1,6 @@
-token= NTA0NTEwMTU5OTQ3ODI1MTUz.DrYnhg.bp3pJ2lSenPIi3TQDUkZrPmpRvQ
-owner= 314866432418643969 
-prefix= br
-game= brplay 
+token= NTEwNTc2NDY3MjQzOTU4MzAx.Dsen0Q.NTuXBNGNEwieN3aiWwZhqyOnIAM
+owner= 408136927259131905 
+prefix= 2play
+game= pharaohs 
 stayinchannel=true 
 songinstatus=false 
