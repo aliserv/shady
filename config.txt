@@ -1,4 +1,4 @@
-token= NTEwNTc2NDY3MjQzOTU4MzAx.Dsen0Q.NTuXBNGNEwieN3aiWwZhqyOnIAM
+token= NTEwNTk1OTM4Njg3OTA5ODkz.DsepHQ.xKgMsvL_nQPrfm2ESj4A-dyCo90
 owner= 408136927259131905 
 prefix= 2play
 game= pharaohs 
